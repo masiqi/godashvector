@@ -1,4 +1,4 @@
-module godashvector
+module github.com/masiqi/godashvector
 
 go 1.20
 
