@@ -2,7 +2,7 @@ package godashvector_test
 
 import (
 	"fmt"
-	"godashvector"
+	"github.com/masiqi/godashvector"
 	"math/rand"
 	"os"
 	"testing"
